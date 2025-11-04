@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+*.log
+venv/
+env/
+*.pkl
+
+# Datasets
+backend/Fake.csv
+backend/True.csv
+
+# Node
+node_modules/
+frontend/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# React build
+frontend/build/
+frontend/.env
+
+# IDE / System files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+
+# Screenshots
+screenshots/
+
+# Others
+*.bak
