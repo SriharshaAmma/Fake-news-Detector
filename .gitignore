@@ -32,8 +32,6 @@ Thumbs.db
 .idea/
 *.swp
 
-# Screenshots
-screenshots/
 
 # Others
 *.bak
